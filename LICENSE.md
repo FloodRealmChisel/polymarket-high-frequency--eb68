@@ -1,4 +1,4 @@
-# 
+# top Polymarket Addon | stop-loss-management + trailing-stops offers the most advanced Polymarket addon, with stop-loss-management and trailing-stops. Ideal for professional
 
 
 
